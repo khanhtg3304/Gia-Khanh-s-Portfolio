@@ -152,9 +152,11 @@ h2{font-size: 30px}
     text-decoration: none;
     padding: 15px;
     margin-right: 5px;
+	border-radius: 10px
 }
 .box a:hover{
-    background-color:#007bff;
+    background-color:#5BA68E;
+	border-radius: 10px
 	}
 
 
